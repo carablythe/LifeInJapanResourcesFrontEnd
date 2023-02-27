@@ -1,0 +1,2 @@
+# LifeInJapanResourcesFrontEnd
+React App 
